@@ -1,0 +1,1 @@
+export const onSearchMovie = (state) => state.movie.onSearchMovie
